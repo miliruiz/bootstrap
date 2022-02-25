@@ -1,5 +1,5 @@
 body {
-  font-family: 'Open Sans', sans-serif;
+    font-family: 'Open Sans', sans-serif;
 }
 
 
@@ -12,20 +12,20 @@ body {
     height: 500px;
 }
 
-nav a{
+nav a {
     font-weight: 200;
 }
 
 /*Texto inicio*/
 
-.texto__sobrenosotros{
+.texto__sobrenosotros {
     font-size: 50px;
     padding: 250px;
     color: rgb(114, 108, 108);
     width: 100%;
 }
 
-.texto__sobrenosotros h3{
+.texto__sobrenosotros h3 {
     font-weight: bold;
     padding-bottom: 20px;
 }
@@ -37,7 +37,7 @@ nav a{
     background-color: rgba(247, 242, 242, 0.822);
     border: none;
     border-radius: 10px;
-    
+
 }
 
 .card-title {
@@ -45,7 +45,7 @@ nav a{
     text-align: center;
 }
 
-.card-text{
+.card-text {
     padding: 10px 20px;
 }
 
@@ -55,16 +55,28 @@ nav a{
     padding: 20px;
 
 }
- 
+
 /*Form*/
 
 .formulario {
     padding: 150px 100px;
     background-color: rgb(122, 122, 122);
-    
+
 }
 
-.boton{
-    background-color: rgb(165, 223, 201);
+.boton {
+    background-color: #B8DDCC;
     border: none;
+}
+
+
+
+.compras {
+    padding: 100px 100px;
+    margin: 30px 50px;
+}
+
+.verde {
+    border-color: #B8DDCC;
+    background-color: #B8DDCC;
 }
